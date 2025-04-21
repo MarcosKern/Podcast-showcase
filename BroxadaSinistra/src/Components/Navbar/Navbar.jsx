@@ -6,7 +6,7 @@ export default function Navbar() {
       <a href="#mosaico">conheça o ambiente</a>
       <a href="#mosaico-image-11">nossos apoiadores</a>
       <a href="#supporters-section">Mais informações</a>
-      <a href="/" target='#' rel="noreferrer">Garanta seu ingresso</a>
+      <a href="" rel="noreferrer">Garanta seu ingresso</a>
     </nav>
   )
 }
